@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="./README.pt-BR.md">🇧🇷 Português</a> | 
+  <strong>🇺🇸 English</strong>
+</p>
+
+---
 # AI Learning Companion
 
 AI Learning Companion is a simple and progressive web application designed to help users organize and improve their studies using Artificial Intelligence.
